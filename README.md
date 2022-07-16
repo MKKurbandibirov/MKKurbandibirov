@@ -27,6 +27,8 @@
 |[Fdf](https://github.com/MKKurbandibirov/Fdf)| Write a program that represent a simply ```graphical animation``` with geometrical elements| C, MiniLibX, Makefile| [Subject](https://github.com/MKKurbandibirov/Fdf/blob/main/Subject.pdf)|
 |[pipex](https://github.com/MKKurbandibirov/pipex/tree/master)| Implement a function with behavour like ```bash pipeline``` | C, Makefile|[Subject](https://github.com/MKKurbandibirov/pipex/blob/master/Subject.pdf)|
 |[Philosophers](https://github.com/MKKurbandibirov/Philosophers/tree/master)| Solving a ```Dining Philosophers Problem``` with ```Posix threads``` also with ```Processes```| C, Makefile |[Subject](https://github.com/MKKurbandibirov/Philosophers/blob/master/Subject.pdf)|
+|[minishell](https://github.com/MKKurbandibirov/Minishell)| Create a simply command intepretator(```shell```) like in ```Linux``` or ```MacOs```|C, Makefile|[Subject](https://github.com/MKKurbandibirov/Minishell/blob/main/Subject.pdf)|
+|[cub3d](https://github.com/MKKurbandibirov/cub3d)| Create a game with ```RayCasting``` technology like a Wolfenstein3D| C, MiniLibX, Makefile| [Subject](https://github.com/MKKurbandibirov/cub3d/blob/main/Subject.pdf)|
 
 <table align="center">
   <tr href="https://github.com/anuraghazra/github-readme-stats">
