@@ -23,7 +23,9 @@
 
 
 <br> Projects I've worked on in School 21(Ecole 42) </br>
-| Project name      | Description                | Tools | Subject |
-| ------------- |:------------------------:| ------------------------:| ---------:|
+| Project name      | Description                | Tools   | Subject |
+| ------------- |:------------------------:| --------------:| ---------:|
 |[Libft](https://github.com/MKKurbandibirov/Libft)| Implement your own library for work with ```String``` and ```Linked Lists```| C, Makefile |[Subject](https://github.com/MKKurbandibirov/Libft/blob/master/Subject.pdf)|
 |[ft_printf](https://github.com/MKKurbandibirov/ft_printf/tree/master)| Write a function which behavour is like a ```printf``` function in C| C, Makefile|[Subject](https://github.com/MKKurbandibirov/ft_printf/blob/master/Subject.pdf)|
+|[get_next_line](https://github.com/MKKurbandibirov/get_next_line/tree/master)| Implement the function which read a line from ```file discriptor```|C, Makefile|[Subject](https://github.com/MKKurbandibirov/get_next_line/blob/master/Subject.pdf)|
+|[push_swap](https://github.com/MKKurbandibirov/push_swap)| Invent more efficient algorithm for sort ```stack``` with certain operations| C, Makefile|[Subject](https://github.com/MKKurbandibirov/push_swap/blob/master/Subject.pdf)|
