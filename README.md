@@ -20,3 +20,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
 </div>
+
+
+<br> Projects I've worked on in School 21(Ecole 42) </br>
+| Project name      | Description                | Tools | Subject |
+| ------------- |:------------------------:| ------------------------:| ---------:|
+|[Libft](https://github.com/MKKurbandibirov/Libft)| Implement your own library for work with ```strings``` and ```lists```| C, Makefile |[Subject](https://github.com/MKKurbandibirov/Libft/blob/master/Subject.pdf)|
