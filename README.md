@@ -25,4 +25,5 @@
 <br> Projects I've worked on in School 21(Ecole 42) </br>
 | Project name      | Description                | Tools | Subject |
 | ------------- |:------------------------:| ------------------------:| ---------:|
-|[Libft](https://github.com/MKKurbandibirov/Libft)| Implement your own library for work with ```strings``` and ```lists```| C, Makefile |[Subject](https://github.com/MKKurbandibirov/Libft/blob/master/Subject.pdf)|
+|[Libft](https://github.com/MKKurbandibirov/Libft)| Implement your own library for work with ```String``` and ```Linked Lists```| C, Makefile |[Subject](https://github.com/MKKurbandibirov/Libft/blob/master/Subject.pdf)|
+|[ft_printf](https://github.com/MKKurbandibirov/ft_printf/tree/master)| Write a function which behavour is like a ```printf``` function in C| C, Makefile|[Subject](https://github.com/MKKurbandibirov/ft_printf/blob/master/Subject.pdf)|
