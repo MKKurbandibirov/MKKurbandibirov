@@ -1,15 +1,41 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" width="650"/>
 </div>
 
 <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h1>
 
 ### ⚡ I’m currently learning at School 21
+<div markdown="1">
+[![nfarfetc's 42 stats](https://badge42.vercel.app/api/v2/cl5nmhwfc006709k66zlpfwmn/stats?cursusId=21&coalitionId=100)](https://github.com/JaeSeoKim/badge42)
+</div>
 
-<!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/nfarfetc)](https://github.com/JaeSeoKim/badge42) -->
+### <br> Projects I've worked on in School 21(Ecole 42) </br>
+| Project name      | Description                | Tools   | Subject |
+| ------------- |:------------------------:| --------------:| ---------:|
+|[Libft](https://github.com/MKKurbandibirov/Libft)| Implement your own library for work with ```String``` and ```Linked Lists```| C, Makefile |[Subject](https://github.com/MKKurbandibirov/Libft/blob/master/Subject.pdf)|
+|[ft_printf](https://github.com/MKKurbandibirov/ft_printf/tree/master)| Write a function which behavour is like a ```printf``` function in C| C, Makefile|[Subject](https://github.com/MKKurbandibirov/ft_printf/blob/master/Subject.pdf)|
+|[get_next_line](https://github.com/MKKurbandibirov/get_next_line/tree/master)| Implement the function which read a line from ```file discriptor```|C, Makefile|[Subject](https://github.com/MKKurbandibirov/get_next_line/blob/master/Subject.pdf)|
+|[push_swap](https://github.com/MKKurbandibirov/push_swap)| Invent more efficient algorithm for sort ```stack``` with certain operations| C, Makefile|[Subject](https://github.com/MKKurbandibirov/push_swap/blob/master/Subject.pdf)|
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKKurbandibirov&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKKurbandibirov&show_icons=true&theme=radical) -->
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKKurbandibirov&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /> -->
+</a>
+<!-- <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MKKurbandibirov&show_icons=true&theme=radical" />
+</a> -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKKurbandibirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+</div>
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -20,12 +46,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
 </div>
-
-
-<br> Projects I've worked on in School 21(Ecole 42) </br>
-| Project name      | Description                | Tools   | Subject |
-| ------------- |:------------------------:| --------------:| ---------:|
-|[Libft](https://github.com/MKKurbandibirov/Libft)| Implement your own library for work with ```String``` and ```Linked Lists```| C, Makefile |[Subject](https://github.com/MKKurbandibirov/Libft/blob/master/Subject.pdf)|
-|[ft_printf](https://github.com/MKKurbandibirov/ft_printf/tree/master)| Write a function which behavour is like a ```printf``` function in C| C, Makefile|[Subject](https://github.com/MKKurbandibirov/ft_printf/blob/master/Subject.pdf)|
-|[get_next_line](https://github.com/MKKurbandibirov/get_next_line/tree/master)| Implement the function which read a line from ```file discriptor```|C, Makefile|[Subject](https://github.com/MKKurbandibirov/get_next_line/blob/master/Subject.pdf)|
-|[push_swap](https://github.com/MKKurbandibirov/push_swap)| Invent more efficient algorithm for sort ```stack``` with certain operations| C, Makefile|[Subject](https://github.com/MKKurbandibirov/push_swap/blob/master/Subject.pdf)|
