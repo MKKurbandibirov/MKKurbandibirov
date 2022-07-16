@@ -11,7 +11,7 @@
   ⚡ I’m currently learning at School 21
 </h3>
 <div align="center" href="https://github.com/JaeSeoKim/badge42">
-  <img align="center" src="https://badge42.vercel.app/api/v2/cl5nmhwfc006709k66zlpfwmn/stats?cursusId=21&coalitionId=100" alt="nfarfetc's 42 stats"/>
+  <img align="center" src="https://badge42.vercel.app/api/v2/cl5nmhwfc006709k66zlpfwmn/stats?cursusId=21&coalitionId=100" alt="nfarfetc's 42 stats" width="800"/>
 </div>
 
 <h3 align="center">
@@ -24,6 +24,9 @@
 |[ft_printf](https://github.com/MKKurbandibirov/ft_printf/tree/master)|         Write a function which behavour is like a ```printf``` function in C      | C, Makefile|[Subject](https://github.com/MKKurbandibirov/ft_printf/blob/master/Subject.pdf)|
 |[get_next_line](https://github.com/MKKurbandibirov/get_next_line/tree/master)| Implement the function which read a line from ```file discriptor```|C, Makefile|[Subject](https://github.com/MKKurbandibirov/get_next_line/blob/master/Subject.pdf)|
 |[push_swap](https://github.com/MKKurbandibirov/push_swap)| Invent more efficient algorithm for sort ```stack``` with certain operations| C, Makefile|[Subject](https://github.com/MKKurbandibirov/push_swap/blob/master/Subject.pdf)|
+|[Fdf](https://github.com/MKKurbandibirov/Fdf)| Write a program that represent a simply ```graphical animation``` with geometrical elements| C, MiniLibX, Makefile| [Subject](https://github.com/MKKurbandibirov/Fdf/blob/main/Subject.pdf)|
+|[pipex](https://github.com/MKKurbandibirov/pipex/tree/master)| Implement a function with behavour like ```bash pipeline``` | C, Makefile|[Subject](https://github.com/MKKurbandibirov/pipex/blob/master/Subject.pdf)|
+|[Philosophers](https://github.com/MKKurbandibirov/Philosophers/tree/master)| Solving a ```Dining Philosophers Problem``` with ```Posix threads``` also with ```Processes```| C, Makefile |[Subject](https://github.com/MKKurbandibirov/Philosophers/blob/master/Subject.pdf)|
 
 <table align="center">
   <tr href="https://github.com/anuraghazra/github-readme-stats">
