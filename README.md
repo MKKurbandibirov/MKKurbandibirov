@@ -40,7 +40,13 @@
       <img src="https://github-readme-stats.vercel.app/api?username=MKKurbandibirov&show_icons=true&theme=radical" />
     </th>
   </tr>
+  <tr href="https://leetcode.com/JacobLinCool">
+    <th>
+      <img src="https://leetcard.jacoblin.cool/M_Gomed"/>
+    </th>
+  </tr>
 </table>
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
