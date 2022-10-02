@@ -31,6 +31,7 @@
 |[cub3d](https://github.com/MKKurbandibirov/cub3d)| Create a game with ```RayCasting``` technology like a Wolfenstein3D| C, MiniLibX, Makefile| [Subject](https://github.com/MKKurbandibirov/cub3d/blob/main/Subject.pdf)|<img width="146" alt="image" src="https://user-images.githubusercontent.com/74917681/191957444-0e446e8f-7c82-4c5e-9a47-32a8dcbecb8a.png">|
 |[Piscine-Java](https://github.com/MKKurbandibirov/Piscine-Java)|Several projects covering almost entirely ```Java Core```, as well as ```Spring``` and ```Maven```| Java, JDBC, Spring, Maven |[Subjects](https://github.com/ruslan16/JavaPiscine42/tree/master/subject%2Bchecklist)|<img width="146" alt="image" src="https://user-images.githubusercontent.com/74917681/191957503-1bf91a77-8353-4fbb-9d1b-c4075da9789c.png">|
 |[CPP_modules](https://github.com/MKKurbandibirov/CPP-Modules)|Several projects aimed at introducing the basics of ```C++```, ```OOP```, ```exceptions```, etc.|C++ std98, CMake|More than one|<img width="146" alt="image" src="https://user-images.githubusercontent.com/74917681/191956793-719efcee-2a21-4c17-a770-caaa202b7c43.png">|
+|[Inception](https://github.com/MKKurbandibirov/Inception)|Project whose goal is to setup multiple ```Docker``` containers that are part of the same application(```Nginx```, ```Wordpress```, ```MariaDB```, ```Redis```, etc) using the ```docker-compose```|Docker, docker-compose, bash, CMake|[Subject](https://github.com/MKKurbandibirov/Inception/blob/main/Subject.pdf)||
 
 <table align="center">
   <tr href="https://github.com/anuraghazra/github-readme-stats">
