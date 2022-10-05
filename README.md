@@ -36,7 +36,7 @@
 <table align="center">
   <tr href="https://github.com/anuraghazra/github-readme-stats">
     <th>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKKurbandibirov&langs_count=5&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKKurbandibirov&langs_count=10&layout=compact" />
     </th>
     <th>
       <img src="https://github-readme-stats.vercel.app/api?username=MKKurbandibirov&show_icons=true&theme=radical" />
