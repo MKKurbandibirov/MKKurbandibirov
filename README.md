@@ -14,8 +14,9 @@
   <img align="center" src="https://badge42.vercel.app/api/v2/cl5nmhwfc006709k66zlpfwmn/stats?cursusId=21&coalitionId=100" alt="nfarfetc's 42 stats" width="800"/>
 </div>
 
+---
 <h3 align="center">
-  Projects I've worked on in School 21(Ecole 42)
+  :ballot_box_with_check: Projects I've worked on in School 21(Ecole 42)
 </h3>
 
 | Project name      | Description                | Tools   | Subject | Score|
@@ -33,16 +34,17 @@
 |[CPP_modules](https://github.com/MKKurbandibirov/CPP-Modules)|Several projects aimed at introducing the basics of ```C++```, ```OOP```, ```exceptions```, etc.|C++ std98, CMake|More than one|<img width="146" alt="image" src="https://user-images.githubusercontent.com/74917681/191956793-719efcee-2a21-4c17-a770-caaa202b7c43.png">|
 |[Inception](https://github.com/MKKurbandibirov/Inception)|Project whose goal is to setup multiple ```Docker``` containers that are part of the same application(```Nginx```, ```Wordpress```, ```MariaDB```, ```Redis```, etc) using the ```docker-compose```|Docker, docker-compose, bash, CMake|[Subject](https://github.com/MKKurbandibirov/Inception/blob/main/Subject.pdf)|<img width="146" alt="image" src="https://user-images.githubusercontent.com/74917681/193443734-4e9e94d0-9ba9-4c81-bc15-8475dbb182ca.png">|
 
+---
 <h3 align="center">
-  My own projects
+  :back: :end: My own projects
 </h3>
 
 | Project name      | Description                | Tools   |
 |:------------------:|:-------------------------------------:|:------------------------:|
-|[Phonebook](https://github.com/MKKurbandibirov/PhoneBook)|Simple phonebook implementation using `Postgres` database and `CLI`.|GoLang, Postgres, Docker, sirupsen/logrus, jackc/pgx|
+|[Phonebook](https://github.com/MKKurbandibirov/PhoneBook)|Simple phonebook implementation using `Postgres` database and `CLI`.|Golang, Postgres, Docker, sirupsen/logrus, jackc/pgx|
 |[todo-app](https://github.com/MKKurbandibirov/todo-app)|`RESTful` task management application. The possibility of authorization and authentication with `JWT-token` is implemented. Data is stored in the `Postgres` database. External configuration of the application is done.|Golang, Postgres, Docker, REST, JWT, sirupsen/logrus, spf13/viper, gin-gonic/gin, jmoiron/sqlx|
 
-
+---
 <table align="center">
   <tr href="https://github.com/anuraghazra/github-readme-stats">
     <th>
@@ -61,11 +63,17 @@
 
 
 ---
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<h3 align="center">
+  :hammer_and_wrench: Languages and Tools :
+</h3>
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
 </div>
