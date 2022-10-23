@@ -33,6 +33,16 @@
 |[CPP_modules](https://github.com/MKKurbandibirov/CPP-Modules)|Several projects aimed at introducing the basics of ```C++```, ```OOP```, ```exceptions```, etc.|C++ std98, CMake|More than one|<img width="146" alt="image" src="https://user-images.githubusercontent.com/74917681/191956793-719efcee-2a21-4c17-a770-caaa202b7c43.png">|
 |[Inception](https://github.com/MKKurbandibirov/Inception)|Project whose goal is to setup multiple ```Docker``` containers that are part of the same application(```Nginx```, ```Wordpress```, ```MariaDB```, ```Redis```, etc) using the ```docker-compose```|Docker, docker-compose, bash, CMake|[Subject](https://github.com/MKKurbandibirov/Inception/blob/main/Subject.pdf)|<img width="146" alt="image" src="https://user-images.githubusercontent.com/74917681/193443734-4e9e94d0-9ba9-4c81-bc15-8475dbb182ca.png">|
 
+<h3 align="center">
+  My own projects
+</h3>
+
+| Project name      | Description                | Tools   |
+|:------------------:|:-------------------------------------:|:------------------------:|
+|[Phonebook](https://github.com/MKKurbandibirov/PhoneBook)|Simple phonebook implementation using `Postgres` database and `CLI`.|GoLang, Postgres, Docker, sirupsen/logrus, jackc/pgx|
+|[todo-app](https://github.com/MKKurbandibirov/todo-app)|`RESTful` task management application. The possibility of authorization and authentication with `JWT-token` is implemented. Data is stored in the `Postgres` database. External configuration of the application is done.|Golang, Postgres, Docker, REST, JWT, sirupsen/logrus, spf13/viper, gin-gonic/gin, jmoiron/sqlx|
+
+
 <table align="center">
   <tr href="https://github.com/anuraghazra/github-readme-stats">
     <th>
