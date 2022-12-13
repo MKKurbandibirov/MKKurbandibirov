@@ -45,6 +45,7 @@
 |[Data-Structures and Algorithms](https://github.com/MKKurbandibirov/Data-Structures-and-Algorithms)|Implement most interest(and not) `data-structures` and `algorithms` on `Golang` by using `generics`|Golang, generics|
 |[Kaspersky-SafeBoard-2022-Golang](https://github.com/MKKurbandibirov/Kaspersky-SafeBoard-2022-Golang)|Kaspersky SafeBoard-2022 test task for Golang-developer internship|Golang, Makefile|
 |[Phonebook](https://github.com/MKKurbandibirov/PhoneBook)|Simple phonebook implementation using `Postgres` database and `CLI`.|Golang, Postgres, Docker, sirupsen/logrus, jackc/pgx|
+|[SnippetBox](https://github.com/MKKurbandibirov/SnippetBox)|Simple `MVC` application that allows you to store create and retrieve snippets. Data is stored in the `Postgres` database. External configuration of the application made with `viper`.|Golang, MVC, spf13/viper|
 |[todo-app](https://github.com/MKKurbandibirov/todo-app)|`RESTful` task management application. The possibility of authorization and authentication with `JWT-token` is implemented. Data is stored in the `Postgres` database. External configuration of the application is done.|Golang, Postgres, Docker, REST, JWT, sirupsen/logrus, spf13/viper, gin-gonic/gin, jmoiron/sqlx|
 
 ---
